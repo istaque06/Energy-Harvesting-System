@@ -46,3 +46,7 @@ void loop() {
 Md Istaque Ansari  
 Electronics & Communication Engineering Student  
 Focused on Embedded Systems and real-world hardware projects.
+## Project Demo
+
+![Demo](IMG-20260202-WA0012~2.jpg)
+![Demo](IMG-20260202-WA0014~2.jpg)
