@@ -46,6 +46,7 @@ void loop() {
 
 ## Author
 Md Istaque Ansari  
-Electronics & Communication Engineering Student  
-Focused on Embedded Systems & Real-World Hardware Projects.
+B.Tech Electronics & Communication Engineering Student  
+Embedded Systems & Arduino Project Developer focused on practical, real-world engineering solutions.  
+Actively building industry-ready technical skills and seeking opportunities to contribute in innovative engineering and technology projects.
 
