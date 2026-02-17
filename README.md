@@ -50,3 +50,11 @@ B.Tech Electronics & Communication Engineering Student
 Embedded Systems & Arduino Project Developer focused on practical, real-world engineering solutions.  
 Actively building industry-ready technical skills and seeking opportunities to contribute in innovative engineering and technology projects.
 
+## Project Demo
+
+![Demo](IMG-20260202-WA0012~2.jpg)
+![Demo](IMG-20260202-WA0014~2.jpg)
+![Demo](IMG-20260202-WA0016~2.jpg)
+![Demo](IMG-20260202-WA0018~2.jpg)
+![Demo](IMG-20260202-WA0020~2.jpg)
+
