@@ -1,5 +1,5 @@
 # Energy-Harvesting-System
-Energy harvesting system generating electrical energy from human locomotion using mechanical and electrical conversion.
+Arduino-based Energy Harvesting System generating electrical energy from human motion for portable and smart power applications.
 ## Features
 - Generates electrical energy from human motion
 - Mechanical to electrical energy conversion
