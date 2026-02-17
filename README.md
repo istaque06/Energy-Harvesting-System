@@ -42,9 +42,10 @@ void loop() {
 
   delay(500);
 }
+```
 
 ## Author
 Md Istaque Ansari  
 Electronics & Communication Engineering Student  
-Focused on Embedded Systems and real-world hardware projects.
+Focused on Embedded Systems & Real-World Hardware Projects.
 
